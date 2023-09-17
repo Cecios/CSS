@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+
+    head{
+        font-family: 'Montserrat', sans-serif;
+    }
+    body{ 
+        margin: 0;
+        font-family: 'Montserrat', sans-serif;
+    }
+    footer{
+        background-color: black;
+        color: white;
+        padding: 16px;
+        text-align: center;
+    }
+    footer a{
+        color: white;
+    }
+    .main-selection{
+        padding: 20px;
+    }
+    .image-container{
+
+        height: 500px;
+        background-repeat: no-repeat;
+        width: auto;
+        background-size: cover;
+        background-position: center center;
+        
+    }
+    h1{
+        font-family: 'Prata',sans-serif;
+        font-size: 64px;
+        font-weight: 400;
+        margin-bottom: 0;
+    }
+    h3{
+        font-family: 'Prata',sans-serif;
+        font-size: 24px;
+        font-weight: 400;
+        margin-top: 0; 
+        margin-bottom: 0;
+    }
+    h6{
+        padding: 22px;
+        margin-bottom: 0px;
+        margin-top: 56px;
+        color: white;
+        border-radius: 6px;
+    }
+    .form-autore{
+        font-weight: 600;
+        font-style: italic;
+    }
+    .custom-list{
+        list-style: none;
+        padding: 0
+    }
+    .custom-list li{
+        padding-top: 6px;
+        padding-bottom: 6px;
+        padding-left: 22px;
+        border-bottom: 1px;
+        border-bottom: color(#dfdfdf);
+        
+    }
+    .a-homepage{
+        color: #c18d45;
+    }
+    .a-lipari{
+        color: #163ef1;
+    }
+    .a-vulcano{
+        color:#453238;
+    }
+    .a-salina{
+        color:#7c2222;
+    }
+    .a-stromboli{
+        color:#1c862a;
+    }
+    .a-alicudi{
+        color:#0d9101;
+    }
+    .a-filicudi{
+        color:rgb(190, 69, 13) ;
+    }
+    .a-panarea{
+        color:#287bf1;
+    }
+    li a{
+        text-decoration: none;
+    }
+    #h6-Homepage{
+        background: linear-gradient(120deg,#c18d45, #3cb101);
+    }
+    #h6-Lipari{
+        background: linear-gradient(120deg,#163ef1, #01b18e);
+            } 
+    #h6-Vulcano{
+        background: linear-gradient(120deg, #453238,#1675f1);
+    } 
+    #h6-Salina{
+        background: linear-gradient(120deg,#7c2222, #cdd7dd);
+    }
+    #h6-Stromboli{
+        background: linear-gradient(120deg,#1c862a, #287bf1);
+    }
+    #h6-Panarea{
+        background: linear-gradient(120deg,#287bf1,#d9e0bc);
+    }
+    #h6-Alicudi{
+        background: linear-gradient(120deg,#0d9101,beige);
+    }
+    #h6-Filicudi{
+        background: linear-gradient(120deg,rgb(190, 69, 13),#0d9101);
+    }        
+      
+    
